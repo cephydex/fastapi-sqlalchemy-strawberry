@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+psycopg2-binary==2.9.5
+# strawberry-graphql[fastapi]==0.158.0
+strawberry-graphql[fastapi]==0.235.2
+alembic
+# pytest
+# httpx
